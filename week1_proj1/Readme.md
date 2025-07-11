@@ -4,5 +4,4 @@ This project implements a deep learning pipeline to classify teeth conditions in
 
 ---
 
-i will update it 
-
+live demo for this project : https://huggingface.co/spaces/OverMind0/teeth
