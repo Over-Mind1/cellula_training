@@ -1,2 +1,2 @@
-# this first version i will make interference and deploy it using hugging face servers
+# this first version i will deploy it using hugging face servers
 ..
